@@ -1,5 +1,5 @@
 ## Titanic Project
- * ### Group members:
+ ### Group members:
  * ##### Aljowhara Alblaihed
  * ##### Shaima Alharbi
  * ##### Ghadi Khalid
